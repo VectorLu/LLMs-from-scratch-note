@@ -22,9 +22,11 @@ Note for learn [LLM-from-scratch](https://github.com/rasbt/LLMs-from-scratch#)
 git clone --recurse-submodules https://github.com/VectorLu/LLMs-from-scratch-note
 ```
 
-> [!NOTE] If you already use simple `git clone` to clone the project and forgot `--recurse-submodules`, you can combine the `git submodule init` and `git submodule update` steps by running `git submodule update --init`. To also initialize, fetch and checkout any nested submodules, you can use the foolproof `git submodule update --init --recursive`.
+> [!NOTE] 
+> If you already use simple `git clone` to clone the project and forgot `--recurse-submodules`, you can combine the `git submodule init` and `git submodule update` steps by running `git submodule update --init`. To also initialize, fetch and checkout any nested submodules, you can use the foolproof `git submodule update --init --recursive`.
 
-> [!NOTE] 如果你已经克隆了项目并且忘记了 `--recurse-submodules` ，你可以通过运行 `git submodule update --init` 来结合 `git submodule init` 和 `git submodule update` 步骤。要同时初始化、获取并检出任何嵌套的 submodule，你可以使用万无一失的 `git submodule update --init --recursive` 。
+> [!NOTE] 
+> 如果你已经克隆了项目并且忘记了 `--recurse-submodules` ，你可以通过运行 `git submodule update --init` 来结合 `git submodule init` 和 `git submodule update` 步骤。要同时初始化、获取并检出任何嵌套的 submodule，你可以使用万无一失的 `git submodule update --init --recursive` 。
 
 
 ## how to update this repo
